@@ -1,0 +1,30 @@
+.siderbar {
+  width: 270px;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  background-color: #518fed;
+}
+.siderbar > .logo {
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+}
+.logo > img {
+  width: 200px;
+}
+
+.siderbar > .menu {
+  margin-top: 30px;
+}
+
+.siderbar > .menu ul {
+  list-style-type: none;
+  padding: 0px;
+}
+.siderbar > .menu ul li {
+  font-size: 18px;
+  color: #fff;
+  padding: 15px 0px 15px 50px;
+}
+
